@@ -63,6 +63,6 @@ Two major items on which we can contribute to open-source projects is to:
 
 # Resources
 
-* Making your GitHub project public is not the same as licensing your project. Public projects are covered by GitHub’s Terms of Service, which allows others to view and fork your project, but your work otherwise comes with no permissions. If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. ((Source)[https://opensource.guide/legal/])
-* "__What does my company’s legal team need to know?__ If you’re releasing an open source project as a company employee, first, your legal team should know that you’re open sourcing a project. (Section 8 (there)[https://opensource.guide/legal/])
+* Making your GitHub project public is not the same as licensing your project. Public projects are covered by GitHub’s Terms of Service, which allows others to view and fork your project, but your work otherwise comes with no permissions. If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. ([Source](https://opensource.guide/legal/))
+* "__What does my company’s legal team need to know?__ If you’re releasing an open source project as a company employee, first, your legal team should know that you’re open sourcing a project. (Section 8 [there](https://opensource.guide/legal/))
 * [List of licenses](https://opensource.org/licenses)
