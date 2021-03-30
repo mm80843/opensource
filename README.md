@@ -81,6 +81,10 @@ To bring contributors in and 'play' with open source, here are some ideas:
 * For example, how to install git on our machines..
 * It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
 
+## Security
+
+* Contributions could be linked to checking if content published does not contain sensitive information, such as [secrets](https://github.com/mottmacdonaldglobal/shiny_feedbackModule/issues/1).
+
 # Changelog
 
 * 30/03/2021: Call with Maria and Kate
