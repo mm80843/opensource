@@ -60,6 +60,26 @@ Two major items on which we can contribute to open-source projects is to:
 * Copyrights attached to IP need also to be clear in terms of ownership.
 * One would also need to make sure all repos are properly licensed, under acceptable T&Cs / license.
 
+# What to do ?
+
+## Ideas of open-source contributors
+
+To bring contributors in and 'play' with open source, here are some ideas:
+* Engage in creating common artefacts:
+  * Creating [awesome (ie "curated") lists](https://github.com/sindresorhus/awesome/blob/main/awesome.md) of links ([exemple](https://github.com/kelu124/awesome-latticeFPGAs)). We could list of example open-source projects we're working with, to help guide mm contributors towards them.
+  * Create documentation using for example Markdown text to use GitHub text rendering capabilities
+* Engage in creating improvements (pull requests) to selected projects
+* Improve documentation of existing projects
+* Build on existing distribution platforms to increase visibility:
+   * Grasshopper plugins
+   * Python modules
+   * npm / node packages ...
+
+It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
+
+# Changelog
+
+* 30/03/2021: Call with Maria and Kate
 
 # Resources
 
