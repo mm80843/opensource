@@ -65,9 +65,10 @@ Two major items on which we can contribute to open-source projects is to:
 ## Ideas of open-source contributors
 
 To bring contributors in and 'play' with open source, here are some ideas:
-* Engage in creating common artefacts:
+* Engage in creating common artefacts. It is fine if that's even _only_ documentation. Documentation is precious.
   * Creating [awesome (ie "curated") lists](https://github.com/sindresorhus/awesome/blob/main/awesome.md) of links ([exemple](https://github.com/kelu124/awesome-latticeFPGAs)). We could list of example open-source projects we're working with, to help guide mm contributors towards them.
   * Create documentation using for example Markdown text to use GitHub text rendering capabilities
+  * _(as a remark, markdown changes is fine because you don't need git, github allows you to directly edit text, and markdown renders basic formatting nicely)_
 * Engage in creating improvements (pull requests) to selected projects
 * Improve documentation of existing projects
 * Build on existing distribution platforms to increase visibility:
@@ -75,7 +76,10 @@ To bring contributors in and 'play' with open source, here are some ideas:
    * Python modules
    * npm / node packages ...
 
-It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
+## Documentation from, for and to MM staff
+
+* For example, how to install git on our machines..
+* It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
 
 # Changelog
 
