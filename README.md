@@ -80,6 +80,8 @@ To bring contributors in and 'play' with open source, here are some ideas:
 
 * For example, how to install git on our machines..
 * It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
+* Build on the github pages opportunity, as in [mottmacdonaldglobal.github.io repo](https://github.com/mottmacdonaldglobal/mottmacdonaldglobal.github.io) ([link seems broken](mottmacdonaldglobal.github.io)). Been using Jekyll as part of the autopublish, it's a fantastic tool.
+
 
 ## Security
 
