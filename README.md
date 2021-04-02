@@ -78,7 +78,15 @@ To bring contributors in and 'play' with open source, here are some ideas:
 
 ## Documentation from, for and to MM staff
 
-* For example, how to install git on our machines..
+Using github is a change of habits, in terms of information and code storage, but also preparation, commit strategy, peer review, .... This would raise a lot of question, to which a community could answer by putting up a FAQ together. It could include, for example:
+* How to install git on our machines
+* How to prepare a pull request (PR)
+* Governance when merging PR to a folder located on the organization
+* Governance for finding a home for projects: individuals and/or the organization? Should the org have a fork if a project is specific-contributor lead?
+* Governance in terms of maintainers
+
+Other documentation ideas:
+
 * It would be good to engage as well as with the MMDV software team to exchange over their best practice in terms of collaboration (PR, PR review, structuration, documentation, ...)
 * Build on the github pages opportunity, as in [mottmacdonaldglobal.github.io repo](https://github.com/mottmacdonaldglobal/mottmacdonaldglobal.github.io) ([link seems broken](mottmacdonaldglobal.github.io)). Been using Jekyll as part of the autopublish, it's a fantastic tool.
 
