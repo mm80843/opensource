@@ -80,10 +80,12 @@ To bring contributors in and 'play' with open source, here are some ideas:
 
 Using github is a change of habits, in terms of information and code storage, but also preparation, commit strategy, peer review, .... This would raise a lot of question, to which a community could answer by putting up a FAQ together. It could include, for example:
 * How to install git on our machines
+  * It seems [gitscm](https://git-scm.com/download/win) installer is fine to use.
+  * + tutorial on how to clone, and commit + best practices for pushing commits back
 * How to prepare a pull request (PR)
 * Governance when merging PR to a folder located on the organization
 * Governance for finding a home for projects: individuals and/or the organization? Should the org have a fork if a project is specific-contributor lead?
-* Governance in terms of maintainers
+* Governance in terms of maintainers: who is responsible for a repo, who to review code, ...
 
 Other documentation ideas:
 
@@ -98,6 +100,7 @@ Other documentation ideas:
 # Changelog
 
 * 30/03/2021: Call with Maria and Kate
+* 08/04/2021: First project commit
 
 # Resources
 
